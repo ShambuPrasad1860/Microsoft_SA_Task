@@ -32,9 +32,9 @@ const description =
  */
 const skillsList = [
   "Web Development",
-  "Android App Development",
+  "Machine Learning",
   "Cloud Computing",
-  "Data Base Management",
+  "Data Analysis",
   "Data Mining",
   "Network Security",
 ];
