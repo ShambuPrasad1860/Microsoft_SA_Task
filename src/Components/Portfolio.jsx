@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desktop.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Getting Started with Git and Github",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Git is a version control system, GitHub is a platform to host and collaborate on those versions",
+    url: "",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web Development Tutorial",
     description:
       "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A resume is a one-page marketing tool that summarizes your skills and experience to land a job.",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub Copilot and Microsoft 365",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "GitHub Copilot writes code snippets in your favorite editor, while Microsoft 365 Copilot is an AI assistant for your productivity apps.",
+    url: "",
   },
 ];
 
